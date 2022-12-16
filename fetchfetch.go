@@ -32,7 +32,7 @@ var fetches = []string{
 	"archfetch",
 	"cfetch",
 	"shutthefetchup",
-	"uwufetch",
+	"hyfetch",
 }
 
 func fetchExists(fetch string) bool {
